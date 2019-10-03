@@ -1,0 +1,70 @@
+
+.nx_profile_content{
+    padding-bottom: 5px;
+    border-bottom: 1px solid #444;
+    margin-bottom: 5px;
+}
+.nx_profile_title {
+    
+    color: #00d9a4;
+    margin: 2px 0;
+    border-bottom: 1px solid #444;
+    border-left: 5px solid #444;
+    padding: 5px 3px;
+}
+
+.nx_profile_box_field{
+    padding:5px;
+    margin: 5px 0;
+    width: 100%;
+    display: flex;
+    align-items: stretch;
+}
+
+.nx_profile_box_field  .nx_profile_item{
+    line-height: 2.3em;
+}
+.np_text{
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.w1{
+    width: 10%;
+}
+
+.w2{
+    width: 20%;
+}
+
+.w3{
+    width: 30%;
+}
+
+.w4{
+    width: 40%;
+}
+
+.w5{
+    width: 50%;
+}
+
+.w6{
+    width: 60%;
+}
+
+.w7{
+    width: 70%;
+}
+
+.w8{
+    width: 80%;
+}
+
+.w9{
+    width: 90%;
+}
+
+.w10{
+    width: 100%;
+}
