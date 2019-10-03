@@ -22,8 +22,8 @@ function adm_extrafield_show_edit( $profileuser )
     $data['profile_saved'] = esc_attr( get_the_author_meta( 'extra_profile', $profileuser->ID ) );
 
    $data['get_list_profile'] = [
-        'tarot'=>'Tarot',
-        'mg_miguel'=>'Mago Miguel',
+        'test_a'=>'Test A',
+        'test_b'=>'Test B',
     ];
 
     $factory::view($data , 'profile_edit');
