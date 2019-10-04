@@ -3,9 +3,9 @@
 Plugin Name: Next Profile
 Description: Cria um custom extra field para o perfil de assinante, assim podendo utilizar regras para este extra field
 Author: André Luiz Pereira
-Author URI: https://github.com/androidelp
-License:      GPL2
-License URI:  https://www.gnu.org/licenses/gpl-2.0.html
+Author URI: https://www.next4.com.br
+License:      GPL3
+License URI:  https://www.gnu.org/licenses/gpl-3.0.html
 Version: 0.1
 
 O suporte é encontrado em readme.md na pasta deste plugin
