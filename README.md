@@ -7,8 +7,8 @@ Plugin Wordpress para adicionar um profile extra e utilizar get_the_author_meta 
     get_the_author_meta( 'extra_profile', $profileuser->ID );
 ?>
 ```
-|Software   | Version |
------------------------
+| Software  | Version |
+|-----------|---------|
 | Wordpress | 5.2     |
 | PHP       | 7.2     |
 
